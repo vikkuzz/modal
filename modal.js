@@ -1,8 +1,8 @@
 const btn = document.querySelector('.open-modal');
 const wrap = document.querySelector('.wrap-modal');
 const blur = document.querySelector('.blur');
-const modal = document.querySelector('.wrap-modal__login');
-const btnClose = document.querySelector('.wrap-modal--close');
+//const modal = document.querySelector('.wrap-modal__login');
+//const btnClose = document.querySelector('.wrap-modal--close');
 
 
 btn.addEventListener('click', function () {
